@@ -1,4 +1,4 @@
-# git-branch-test
+# git-branch-merge-test
 
 I tired to create a branch from the main branch.
 
